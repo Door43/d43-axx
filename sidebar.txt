@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[axx:home|Door43 (axx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-axx|d43-axx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-axx/archive/master.zip|d43-axx.zip]]
+
+**Recent Changes**
+{{changes>ns = axx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/axx|Ethnologue data]]
+
